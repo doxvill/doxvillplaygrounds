@@ -1,9 +1,8 @@
 //: [Previous](@previous)
-
-// Задание 1
 import Foundation
 import UIKit
 
+// Задание 1
 let width = 10
 let length = 20
 let area = width * length
