@@ -4,5 +4,6 @@
         <page name='basics'/>
         <page name='let_var'/>
         <page name='operators'/>
+        <page name='flow_control'/>
     </pages>
 </playground>
