@@ -1,3 +1,6 @@
+//: [Previous](@previous)
+
+import Foundation
 import UIKit
 
 // Задание 1
@@ -43,3 +46,6 @@ print("Нельзя вывести переменную не задав ей з�
 var distanceTraveled: Double = 0
 distanceTraveled = 5.34
 print(distanceTraveled)
+
+
+//: [Next](@next)
